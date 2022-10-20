@@ -14,12 +14,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="250"/>
 </div>
+
 ---
+
 [Test tasks from IT-company-Lad- ](https://drive.google.com/drive/folders/1WOlm2O8DNhQFT_t8MvKbp66Y6pS_alBu?usp=sharing)
 
 [Test tasks (bug report) from MentolPro ](https://docs.google.com/spreadsheets/d/1O_TJn9DtrC3cHPM9sAXZsarc4KzhBg5yzTkobjyEkE8/edit?usp=sharing)
 
 [Educational project(test cases, check list, bug report, test report) from Moypolk.ru ](https://drive.google.com/drive/folders/1s8gwpn5l3fR23GAJ3hnFRDutFE078B8Z?usp=sharing)
+
 ---
 
 ### :woman_technologist: About Me :
