@@ -14,18 +14,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="250"/>
 </div>
-
 ---
 [Test tasks from IT-company-Lad- ](https://drive.google.com/drive/folders/1WOlm2O8DNhQFT_t8MvKbp66Y6pS_alBu?usp=sharing)
-[Test tasks (bug report) from MentolPro ](https://docs.google.com/spreadsheets/d/1O_TJn9DtrC3cHPM9sAXZsarc4KzhBg5yzTkobjyEkE8/edit?usp=sharing)
-[Educational project(test cases, check list, bug report, test report) from Moypolk.ru ](https://drive.google.com/drive/folders/1s8gwpn5l3fR23GAJ3hnFRDutFE078B8Z?usp=sharing)
 
+[Test tasks (bug report) from MentolPro ](https://docs.google.com/spreadsheets/d/1O_TJn9DtrC3cHPM9sAXZsarc4KzhBg5yzTkobjyEkE8/edit?usp=sharing)
+
+[Educational project(test cases, check list, bug report, test report) from Moypolk.ru ](https://drive.google.com/drive/folders/1s8gwpn5l3fR23GAJ3hnFRDutFE078B8Z?usp=sharing)
 ---
 
 ### :woman_technologist: About Me :
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+QA+engineer)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 - :telescope: I am looking for my first job as a QA engineer and I want to contribute to the development of the interface and backend for creating web applications.
 
 - :seedling: Exploring Guide to Software Test Design.
@@ -51,3 +49,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LadyginaElena&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyginaElena)](https://github.com/anuraghazra/github-readme-stats)
