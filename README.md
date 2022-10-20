@@ -22,8 +22,7 @@ https://github.com/LadyginaElena/IT-company-Lad-
 
 ### :woman_technologist: About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+QA+engineer)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+QA+engineer)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I am looking for my first job as a QA engineer and I want to contribute to the development of the interface and backend for creating web applications.
 
