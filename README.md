@@ -23,6 +23,8 @@
 
 [Educational project(test cases, check list, bug report, test report) from Moypolk.ru ](https://drive.google.com/drive/folders/1s8gwpn5l3fR23GAJ3hnFRDutFE078B8Z?usp=sharing)
 
+[My SQL homeworks ] (https://github.com/LadyginaElena/My_SQL_homework)
+
 ---
 
 ### :woman_technologist: About Me :
