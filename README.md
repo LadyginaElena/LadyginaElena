@@ -25,6 +25,8 @@
 
 [My SQL homeworks ](https://github.com/LadyginaElena/My_SQL_homework)
 
+[My Git Actions work](https://github.com/LadyginaElena/Luma_automation)
+
 
 ---
 
