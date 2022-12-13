@@ -27,7 +27,7 @@
 
 [My Git Actions work](https://github.com/LadyginaElena/Luma_automation)
 
-[Our test automation training project](https://github.com/ivanovajulika/Sauce)
+[Our Automation testing project](https://github.com/ivanovajulika/Sauce)
 
 
 ---
