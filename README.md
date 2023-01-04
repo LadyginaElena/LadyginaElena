@@ -19,7 +19,7 @@
 
 [Our Automation testing project](https://github.com/ivanovajulika/Sauce)
 
-[API Automation testing project](https://[github.com/ivanovajulika/Sauce](https://github.com/ivanovajulika/Api_Petstore))
+[API Automation testing project](https://github.com/ivanovajulika/Api_Petstore)
 
 [Test tasks from IT-company-Lad- ](https://drive.google.com/drive/folders/1WOlm2O8DNhQFT_t8MvKbp66Y6pS_alBu?usp=sharing)
 
