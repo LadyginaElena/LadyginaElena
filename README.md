@@ -31,7 +31,6 @@
 
 [My Git Actions work](https://github.com/LadyginaElena/Luma_automation)
 
-[Our Automation testing project](https://github.com/ivanovajulika/Sauce)
 
 
 ---
