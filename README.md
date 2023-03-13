@@ -68,7 +68,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LadyginaElena&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyginaElena&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?LadyginaElena=vn7n24fzkq&theme=github_dark)
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LadyginaElena&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LadyginaElena&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LadyginaElena&theme=github_dark"/>
+</div>
