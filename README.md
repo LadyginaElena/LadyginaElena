@@ -74,4 +74,6 @@
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LadyginaElena&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LadyginaElena&theme=github_dark"/>
 </div>
-[![codewars](https://www.codewars.com/users/LadyginaElena/badges/small)](https://www.codewars.com/users/LadyginaElena)
+<div id="codewars" align="center">
+<img src="https://www.codewars.com/users/LadyginaElena/badges/large" title="Codewars" alt="Codewars"/>
+</div>
