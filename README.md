@@ -5,6 +5,9 @@
   <a href="https://t.me/elena_arabel">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/elena-ladygina/">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=LadyginaElena&style=flat-square&color=blue" alt="number"/>
 <h1>
