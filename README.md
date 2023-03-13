@@ -20,20 +20,9 @@
 
 ---
 
-### [Our Automation testing project](https://github.com/ivanovajulika/Sauce)
+### [UI Automation testing project](https://github.com/ivanovajulika/Sauce)
 
 ### [API Automation testing project](https://github.com/ivanovajulika/Api_Petstore)
-
-### [Test tasks from IT-company-Lad- ](https://drive.google.com/drive/folders/1WOlm2O8DNhQFT_t8MvKbp66Y6pS_alBu?usp=sharing)
-
-### [Test tasks (bug report) from MentolPro ](https://docs.google.com/spreadsheets/d/1O_TJn9DtrC3cHPM9sAXZsarc4KzhBg5yzTkobjyEkE8/edit?usp=sharing)
-
-### [Educational project(test cases, check list, bug report, test report) from Moypolk.ru ](https://drive.google.com/drive/folders/1s8gwpn5l3fR23GAJ3hnFRDutFE078B8Z?usp=sharing)
-
-### [My SQL homeworks ](https://github.com/LadyginaElena/My_SQL_homework)
-
-### [My Git Actions work](https://github.com/LadyginaElena/Luma_automation)
-
 
 
 ---
