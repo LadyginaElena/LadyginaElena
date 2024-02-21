@@ -24,7 +24,7 @@
 
 ### [API Automation testing project](https://github.com/ivanovajulika/Api_Petstore)
 
-
+### [ Angular CLI burgers project]([[https://github.com/LadyginaElena/burgers/tree/deploy])
 ---
 
 ### :woman_technologist: About Me :
