@@ -31,7 +31,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+QA+engineer)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I contribute to the development of the interface and backend for creating web applications.
 
-- :seedling: I work on two projects. Web application and desktop..
+- :seedling: I work on two projects. Web application and desktop.
 
 - :zap: In my free time I study Perfomace testing and read technical articles.
 
